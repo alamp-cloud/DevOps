@@ -1,1 +1,9 @@
-Hello
+Progress so far :
+
+Installed and set up WSL
+Connected VS Code to WSL
+Learned basic Linux navigation commands
+Initialized a Git repository
+Made first commit
+Pushed code to GitHub
+
